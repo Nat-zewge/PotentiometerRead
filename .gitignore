@@ -2,3 +2,6 @@ Debug/
 Release/
 ldscripts/
 system/
+.cproject
+.project
+.settings
